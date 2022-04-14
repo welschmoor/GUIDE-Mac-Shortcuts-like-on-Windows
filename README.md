@@ -93,9 +93,9 @@ which is completely different.
 
 ### Congratulations
 
--Now you can CTRL+Left or right to jump through words in text
--You can now CTRL+Shift+Left or right to select one word
--And the last like as it says deleteWordBackward will make your CTRL+Backspace delete one word
+- Now you can CTRL+Left or right to jump through words in text
+- You can now CTRL+Shift+Left or right to select one word
+- And the last like as it says deleteWordBackward will make your CTRL+Backspace delete one word
 
 #### Misc
 

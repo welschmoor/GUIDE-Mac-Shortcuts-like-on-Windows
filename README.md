@@ -95,7 +95,7 @@ which is completely different.
 
 - Now you can CTRL+Left or right to jump through words in text
 - You can now CTRL+Shift+Left or right to select one word
-- And the last like as it says deleteWordBackward will make your CTRL+Backspace delete one word
+- And as the last line in the file says deleteWordBackward will make your CTRL+Backspace delete one word
 
 #### Misc
 
